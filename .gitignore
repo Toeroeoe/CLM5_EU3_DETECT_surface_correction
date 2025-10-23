@@ -1,0 +1,5 @@
+.vscode/
+out/
+*.nc
+in/
+venv/
