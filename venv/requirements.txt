@@ -1,0 +1,8 @@
+pip
+numpy==1.26.4
+pandas
+mpi4py
+netCDF4
+xarray
+scipy
+-e /p/scratch/cjibg31/jibg3105/projects/crusty/
